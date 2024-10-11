@@ -2,7 +2,7 @@
 
 significance testing using Chi-square test and t-test
 
-using random forest for prediction
+using random forest for suicide ideation and/or suicide attempt (SISA) prediction
 
 stratified nested cross-validation procedure for hyperparameter tuning, model training, and unbiased estimation
 
